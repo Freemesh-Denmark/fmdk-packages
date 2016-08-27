@@ -1,4 +1,4 @@
-Freifunk Kiel - gluon-packages
+Freemesh Denmark - gluon-packages
 ============================
 
 ### gluon-config-mode-contact-obligatory
